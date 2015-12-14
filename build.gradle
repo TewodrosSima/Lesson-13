@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.tewodros_2.lesson13"
+        applicationId "com.example.tewodros_2.d"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
@@ -24,6 +24,4 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
-    compile 'com.loopj.android:android-async-http:1.4.4'
-    compile 'com.squareup.picasso:picasso:2.1.1'
 }
